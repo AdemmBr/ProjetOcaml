@@ -1,0 +1,10 @@
+_build/
+*.install
+*.cmi
+*.cmo
+*.cmx
+*.o
+*.annot
+.merlin
+__pycache__/
+.DS_Store
